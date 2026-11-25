@@ -5,7 +5,7 @@ Scientist in spatial biology and tissue imaging. 5+ years of industry wet-lab R&
 **Tools**
 
 - [AbScout](https://suyogpathare.com/abscout/): antibody search and panel builder for multiplex tissue imaging
-- [PanelScout](https://suyogpathare.com/panelscout/): check a gene list against Xenium and CosMx panels
+- [PanelScout](https://suyogpathare.com/panelscout/): check a gene list against various spatial platforms
 - [Methods Writer](https://suyogpathare.com/methods/): methods section and channel metadata organized by the MITI reporting guidelines
 
 Cite the web tools as: Pathare S. *AbScout, PanelScout and Methods Writer: panel design and methods reporting tools for spatial biology.* Zenodo. [doi:10.5281/zenodo.24326636](https://doi.org/10.5281/zenodo.24326636)
